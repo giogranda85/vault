@@ -152,7 +152,7 @@ require (
 	github.com/hashicorp/vault-hcp-lib v0.0.0-20250306185756-615fe2449b16
 	github.com/hashicorp/vault-plugin-auth-alicloud v0.23.1
 	github.com/hashicorp/vault-plugin-auth-azure v0.24.0
-	github.com/hashicorp/vault-plugin-auth-cf v0.23.0
+	github.com/hashicorp/vault-plugin-auth-cf v0.23.1-0.20260605070921-d765b97abd5f
 	github.com/hashicorp/vault-plugin-auth-gcp v0.23.1
 	github.com/hashicorp/vault-plugin-auth-jwt v0.26.3
 	github.com/hashicorp/vault-plugin-auth-kerberos v0.17.1
